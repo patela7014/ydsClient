@@ -7,7 +7,7 @@ import {
   FETCH_MESSAGE
 } from './types';
 
-export const ROOT_URL = 'http://dasapiserver.azurewebsites.net/api';
+export const ROOT_URL = 'http://atmiyaevents.com/api';
 
 const usersListURI = ROOT_URL+'/users';
 const userDetailsBaseURI = ROOT_URL+'/users';
